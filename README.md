@@ -1,4 +1,4 @@
-# TMbill - Multi-Store Order Management System
+# Multi-Store Order Management System
 
 A full-stack order management system built with **Next.js**, **Express.js**, **MongoDB**, and **Socket.IO** for real-time updates.
 
@@ -45,7 +45,7 @@ A full-stack order management system built with **Next.js**, **Express.js**, **M
 ## Project Structure
 
 ```
-TMbill/
+Order-Management-System/
 ├── backend/
 │   ├── src/
 │   │   ├── controllers/
@@ -117,7 +117,7 @@ TMbill/
 ### 1. Clone the Repository
 ```bash
 git clone <your-repo-url>
-cd TMbill
+cd Order-Management-System
 ```
 
 ### 2. Backend Setup
@@ -129,7 +129,7 @@ npm install
 
 # Configure environment variables
 # Edit .env file with your MongoDB connection string
-# MONGODB_URI=mongodb://localhost:27017/tmbill
+# MONGODB_URI=mongodb://localhost:27017/Order-Management-System/
 
 # Seed the database with stores and food items
 npm run seed
