@@ -12,7 +12,7 @@ const storesData = [
   { store_id: 'store_2', name: 'Jagdamba Veg & Non Veg', type: 'Multi Cuisine' },
   { store_id: 'store_3', name: 'Ruchira Hotel', type: 'Breakfast & Meals' },
   { store_id: 'store_4', name: 'Pooja Cafe', type: 'Cafe' },
-  { store_id: 'store_5', name: 'Katli Katta', type: 'Fast Food' },
+  { store_id: 'store_5', name: 'Ketli Katta', type: 'Fast Food' },
 ];
 
 const foodItemsData = [
